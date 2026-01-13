@@ -1,1 +1,1 @@
-# sato_pub
+# satoclinic
